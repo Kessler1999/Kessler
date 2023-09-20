@@ -6,10 +6,10 @@
     <title>Não sou o Ian</title>
 </head>
 <body>
-    <p>Nome: Ian Kessler barboza</p>
+    <h1>Nome: Ian Kessler barboza</h1>
     <p>Idade: 24 Anos</p>
     <p>Profissão: Servente de Obras, futuramente não sei, talvez analista de sistema ou dev</p>
-    <h1>Gostos: Gosto de jogos principalmente FPS, gosto bastante de MMO, estou cusando Ciênçia da Computação, natural de Florainaopolis, gosto de cerveja artesanal, Chopp é meu segundo nome</h1>
-    <p>Interesses: Em mulheres casadas, brincadeira a parte. </p>
+    <p>Gostos: Gosto de jogos principalmente FPS, gosto bastante de MMO, estou cusando Ciênçia da Computação, natural de Florainaopolis, gosto de cerveja artesanal, Chopp é meu segundo nome</p>
+    <a Interesses: Em mulheres casadas, brincadeira a parte. </a>
 </body>
 </html>
